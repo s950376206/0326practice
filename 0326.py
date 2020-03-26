@@ -1,2 +1,3 @@
 studentA = 'I am studentA'
-print(srudentA)
+studentB = 'I am studentB'
+print(studentA,StudentB)
